@@ -1,0 +1,13 @@
+# Jupyter-related packages
+ipykernel
+jupyterlab
+jupyter-client
+jupyter-core
+traitlets
+
+# Packages used within the project
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
