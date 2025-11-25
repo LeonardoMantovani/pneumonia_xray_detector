@@ -24,3 +24,5 @@ dist/
 
 # Data directory
 data/
+# Cache directory
+.cache/

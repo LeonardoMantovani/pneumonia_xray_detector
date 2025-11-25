@@ -5,9 +5,12 @@ jupyter-client
 jupyter-core
 traitlets
 
-# Packages used within the project
+# Packages used within the original project
 numpy
 pandas
 scikit-learn
 opencv-python
 matplotlib
+
+# Packages used in the project expansion
+scikit-image
