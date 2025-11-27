@@ -14,3 +14,4 @@ matplotlib
 
 # Packages used in the project expansion
 scikit-image
+scikit-activeml
